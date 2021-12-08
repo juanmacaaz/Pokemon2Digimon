@@ -2,7 +2,7 @@
 
 ## Que es?
 
-En este repositorio puedes encontrar un analisis de clasificacion de pokemons y digimons. Los modelos analizados son VGG16 y Alexnet.
+En este repositorio puedes encontrar un analisis de clasificacion de pokemons y digimons. Los modelos analizados son VGG16 y Alexnet. En el fichero `notebook.ipynb` puedes encontrar todo lo necesario.
 
 ## Requisitos
 
