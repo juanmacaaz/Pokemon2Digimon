@@ -6,7 +6,7 @@
 
 ## :page_with_curl: Resumen
 
-En este repositorio puedes encontrar un analisis de clasificacion de pokemons y digimons. Los modelos analizados son VGG16 y Alexnet. En el fichero `notebook.ipynb` puedes encontrar todo lo necesario.
+En este repositorio puedes encontrar un analisis de diferentes clasificadores de Pokemons y Digimons. Los modelos analizados son VGG16 y Alexnet. En el fichero `notebook.ipynb` puedes encontrar todo lo necesario.
   
 ## :black_nib: Requisitos/Demo
 
@@ -18,7 +18,7 @@ Una vez instalado todo lo necesario, podemos ejecutar el notebook con el comando
 
     jupyter notebook notebook.ipynb
 
-Ya esta preparado para que se pueda ejcutar celda por celda.
+Ya esta preparado para que se pueda ejecutar celda por celda.
 
 ## :flower_playing_cards: Dataset
 
