@@ -1,6 +1,5 @@
-# Pràctica Kaggle APC UAB 2021-22
-## Pokemon2Digimon
-### Nom: Juan Manuel Camara Diaz
+# Pokemon2Digimon
+### Autor: Juan Manuel Camara Diaz
 ### DATASET: PokemonAndDigimon https://www.kaggle.com/juanmacd/pokemonshinydigimon
 ### URL: Pokemon (recoleccion propia) Digimon https://github.com/DeathReaper0965/Digimon-Generator-GAN/blob/master/Digimon.zip
 
